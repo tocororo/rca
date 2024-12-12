@@ -217,7 +217,7 @@ pywebpack==2.1.0
 PyYAML==6.0.2
 pyyaml_env_tag==0.1
 pyzmq==26.2.0
--e git+https://malayibiri@github.com/tocororo/rca.git@3b0b416f625758fa416256d8ba3e1e582a40da24#egg=rca&subdirectory=site
+-e git+https://github.com/tocororo/rca.git@3b0b416f625758fa416256d8ba3e1e582a40da24#egg=rca&subdirectory=site
 redis==5.2.1
 referencing==0.35.1
 regex==2024.11.6
